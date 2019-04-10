@@ -1,2 +1,2 @@
 # curriculumvitae-react
-Crear el curriculumviate con react
+Crearción el curriculumviate con react
